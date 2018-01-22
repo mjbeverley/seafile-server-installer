@@ -31,7 +31,7 @@ As a precaution I have added a few simple checks to abort installation if any of
 
 
 ## Feature overview
-1. HTTPS-Proxy
+1. HTTPS-Proxy (Nginx)
 2. Redirect all HTTP to HTTPS
 2. Seahub with FastCGI
 3. [Seafile WebDAV (aka. SeafDAV)](http://manual.seafile.com/extension/webdav.html) with FastCGI
