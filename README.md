@@ -48,13 +48,13 @@ For Seafile Professional Server, you will have to download the package prior to 
 For **CentOS 7 (64bit)**
 
     cd /root
-    wget --no-check-certificate https://raw.githubusercontent.com/haiwen/seafile-server-installer/master/seafile_centos
+    wget --no-check-certificate https://raw.githubusercontent.com/mjbeverley/seafile-server-installer/master/seafile_centos
     bash seafile_centos 6.2.4
 
 For **Ubuntu 16.04 (64bit)**
 
     cd /root
-    wget --no-check-certificate https://raw.githubusercontent.com/haiwen/seafile-server-installer/master/seafile_ubuntu
+    wget --no-check-certificate https://raw.githubusercontent.com/mjbeverley/seafile-server-installer/master/seafile_ubuntu
     bash seafile_ubuntu 6.2.4
 
 
